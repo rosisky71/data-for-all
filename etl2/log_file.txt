@@ -1,0 +1,6 @@
+2026-May-21-20:32:20,extraction process started
+2026-May-21-20:32:20,Extraction process completed
+2026-May-21-20:32:36,Transformation process started, rounding price to 2 decimal places
+2026-May-21-20:32:36,Transformation process completed
+2026-May-21-20:32:46,Loading process started, saving transformed data to transformed_data.csv
+2026-May-21-20:32:46,Loading process completed
